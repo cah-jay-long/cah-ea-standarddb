@@ -1,7 +1,9 @@
 package com.cah.eit.ea.app.standarddb.entity;
 
-import java.util.HashMap;
 import java.util.List;
+
+import org.springframework.cloud.gcp.data.datastore.core.mapping.Entity;
+import org.springframework.data.annotation.Id;
 
 import com.cah.eit.ea.app.standarddb.types.CostModelEnum;
 import com.cah.eit.ea.app.standarddb.types.Level1Enum;

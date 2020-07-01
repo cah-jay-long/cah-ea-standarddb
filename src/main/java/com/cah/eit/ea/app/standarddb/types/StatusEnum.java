@@ -1,6 +1,6 @@
 package com.cah.eit.ea.app.standarddb.types;
 
-public class StatusEnum {
+public enum StatusEnum {
 	
 	RESEARCH,
 	INCUBATE,

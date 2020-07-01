@@ -1,6 +1,6 @@
 package com.cah.eit.ea.app.standarddb.types;
 
-public class ContactRoleEnum {
+public enum ContactRoleEnum {
 
 	BUSINESS_OWNER,
 	OPERATIONAL_OWNER,
